@@ -1,5 +1,5 @@
 {
-  "name": "vendor/simplesamlphp-module-remitone",
+  "name": "remitone/simplesamlphp-module-remitone",
   "description": "The is the remitone auth processing module 'remitone'.",
   "type": "simplesamlphp-module",
   "require": {
